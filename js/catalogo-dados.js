@@ -1,4 +1,4 @@
-/* Catálogo com preços fornecidos pelo responsável por este projeto; não representam anúncios da loja de referência. */
+/* Valores configurados no catálogo. */
 window.GAMER_KIDS_PRODUCTS=[
   {
     "id": "fenrir3",
