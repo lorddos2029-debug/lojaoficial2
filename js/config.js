@@ -1,9 +1,9 @@
-/* CONFIGURAÇÃO DO EXEMPLO — substitua antes de publicar */
+/* Dados do vendedor informados pelo responsável. Estoque, contato e pagamentos ainda precisam ser validados. */
 window.STORE_CONFIG = Object.freeze({
-  storeName: 'SUA LOJA',
-  merchantLegalName: 'NOME EMPRESARIAL DA SUA LOJA (CONFIGURAR)',
-  merchantId: 'CNPJ A INFORMAR',
-  supportEmail: 'contato@seusite.com.br',
+  storeName: 'BOSS MARKETPLACE',
+  merchantLegalName: 'BOSS MARKETPLACE LTDA',
+  merchantId: '69.217.430/0001-66',
+  supportEmail: 'Contato não informado',
   productName: 'Cadeira Pichau Office Lyse, Full Mesh, Braço 5D, Base Alumínio, Cinza',
   productSku: 'PCH-LYS-GY',
   productPricePix: 1699.99,
