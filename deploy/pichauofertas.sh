@@ -64,7 +64,7 @@ server {
     location / {
         try_files $uri $uri/ =404;
     }
-    location ~ /\\.(?!well-known) {
+    location ~ /\.(?!well-known) {
         deny all;
     }
     add_header X-Content-Type-Options "nosniff" always;
